@@ -1,4 +1,4 @@
-# 👋 Miraç Okalın
+# 👋 Miraç Okalin
 
 🎮 Oyun geliştirici | Yazılım geliştirici
 
